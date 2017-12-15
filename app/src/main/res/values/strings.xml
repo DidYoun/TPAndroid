@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exam</string>
+
+    <string name="exam_firstname">Firstname</string>
+    <string name="exam_lastname">Lastname</string>
+    <string name="exam_email">Email</string>
+    <string name="exam_button_user">Submit</string>
+
+    <string name="exam_button_redirect">Redirect</string>
+    <string name="title_activity_third">ActivityThird</string>
+
+
+</resources>
